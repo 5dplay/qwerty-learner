@@ -1,0 +1,1338 @@
+[
+    {
+        "name": "Monday",
+        "trans": ""
+    },
+    {
+        "name": "Tuesday",
+        "trans": ""
+    },
+    {
+        "name": "Wednesday",
+        "trans": ""
+    },
+    {
+        "name": "Thursday",
+        "trans": ""
+    },
+    {
+        "name": "Friday",
+        "trans": ""
+    },
+    {
+        "name": "Saturday",
+        "trans": ""
+    },
+    {
+        "name": "Sunday",
+        "trans": ""
+    },
+    {
+        "name": "January",
+        "trans": ""
+    },
+    {
+        "name": "February",
+        "trans": ""
+    },
+    {
+        "name": "March",
+        "trans": ""
+    },
+    {
+        "name": "April",
+        "trans": ""
+    },
+    {
+        "name": "May",
+        "trans": ""
+    },
+    {
+        "name": "June",
+        "trans": ""
+    },
+    {
+        "name": "July",
+        "trans": ""
+    },
+    {
+        "name": "August",
+        "trans": ""
+    },
+    {
+        "name": "September",
+        "trans": ""
+    },
+    {
+        "name": "October",
+        "trans": ""
+    },
+    {
+        "name": "November",
+        "trans": ""
+    },
+    {
+        "name": "December",
+        "trans": ""
+    },
+    {
+        "name": "winter",
+        "trans": ""
+    },
+    {
+        "name": "spring",
+        "trans": ""
+    },
+    {
+        "name": "summer",
+        "trans": ""
+    },
+    {
+        "name": "autumn",
+        "trans": ""
+    },
+    {
+        "name": "circle",
+        "trans": ""
+    },
+    {
+        "name": "square",
+        "trans": ""
+    },
+    {
+        "name": "rectangle",
+        "trans": ""
+    },
+    {
+        "name": "triangle",
+        "trans": ""
+    },
+    {
+        "name": "cylinder",
+        "trans": ""
+    },
+    {
+        "name": "oval",
+        "trans": ""
+    },
+    {
+        "name": "automobile",
+        "trans": ""
+    },
+    {
+        "name": "truck",
+        "trans": ""
+    },
+    {
+        "name": "tractor",
+        "trans": ""
+    },
+    {
+        "name": "tram",
+        "trans": ""
+    },
+    {
+        "name": "subway",
+        "trans": ""
+    },
+    {
+        "name": "airplane",
+        "trans": ""
+    },
+    {
+        "name": "train",
+        "trans": ""
+    },
+    {
+        "name": "bicycle",
+        "trans": ""
+    },
+    {
+        "name": "car",
+        "trans": ""
+    },
+    {
+        "name": "pedestrain",
+        "trans": ""
+    },
+    {
+        "name": "passenger",
+        "trans": ""
+    },
+    {
+        "name": "commuter",
+        "trans": ""
+    },
+    {
+        "name": "red",
+        "trans": ""
+    },
+    {
+        "name": "orange",
+        "trans": ""
+    },
+    {
+        "name": "yellow",
+        "trans": ""
+    },
+    {
+        "name": "green",
+        "trans": ""
+    },
+    {
+        "name": "blue",
+        "trans": ""
+    },
+    {
+        "name": "purple",
+        "trans": ""
+    },
+    {
+        "name": "white",
+        "trans": ""
+    },
+    {
+        "name": "black",
+        "trans": ""
+    },
+    {
+        "name": "brown",
+        "trans": ""
+    },
+    {
+        "name": "suggest",
+        "trans": ""
+    },
+    {
+        "name": "develop",
+        "trans": ""
+    },
+    {
+        "name": "borrow",
+        "trans": ""
+    },
+    {
+        "name": "persuade",
+        "trans": ""
+    },
+    {
+        "name": "discuss",
+        "trans": ""
+    },
+    {
+        "name": "review",
+        "trans": ""
+    },
+    {
+        "name": "concentrate",
+        "trans": ""
+    },
+    {
+        "name": "believe",
+        "trans": ""
+    },
+    {
+        "name": "crash",
+        "trans": ""
+    },
+    {
+        "name": "beautiful",
+        "trans": ""
+    },
+    {
+        "name": "necessary",
+        "trans": ""
+    },
+    {
+        "name": "fantastic",
+        "trans": ""
+    },
+    {
+        "name": "comfortable",
+        "trans": ""
+    },
+    {
+        "name": "convenient",
+        "trans": ""
+    },
+    {
+        "name": "wonderful",
+        "trans": ""
+    },
+    {
+        "name": "terrible",
+        "trans": ""
+    },
+    {
+        "name": "temporary",
+        "trans": ""
+    },
+    {
+        "name": "permanent",
+        "trans": ""
+    },
+    {
+        "name": "knowledgeable",
+        "trans": ""
+    },
+    {
+        "name": "exciting",
+        "trans": ""
+    },
+    {
+        "name": "boring",
+        "trans": ""
+    },
+    {
+        "name": "difficult",
+        "trans": ""
+    },
+    {
+        "name": "easy",
+        "trans": ""
+    },
+    {
+        "name": "thirteen",
+        "trans": "listen to the stressed syllable"
+    },
+    {
+        "name": "thirty",
+        "trans": "listen to the stressed syllable"
+    },
+    {
+        "name": "kitchen",
+        "trans": ""
+    },
+    {
+        "name": "bathroom",
+        "trans": ""
+    },
+    {
+        "name": "bedroom",
+        "trans": ""
+    },
+    {
+        "name": "living room",
+        "trans": ""
+    },
+    {
+        "name": "dining room",
+        "trans": ""
+    },
+    {
+        "name": "lounge",
+        "trans": ""
+    },
+    {
+        "name": "gymnasium",
+        "trans": ""
+    },
+    {
+        "name": "gym",
+        "trans": ""
+    },
+    {
+        "name": "cafeteria",
+        "trans": ""
+    },
+    {
+        "name": "cafe",
+        "trans": ""
+    },
+    {
+        "name": "classroom",
+        "trans": ""
+    },
+    {
+        "name": "waiting room",
+        "trans": ""
+    },
+    {
+        "name": "reception",
+        "trans": ""
+    },
+    {
+        "name": "ticket desk",
+        "trans": ""
+    },
+    {
+        "name": "storage room",
+        "trans": ""
+    },
+    {
+        "name": "theatre",
+        "trans": ""
+    },
+    {
+        "name": "street",
+        "trans": ""
+    },
+    {
+        "name": "road",
+        "trans": ""
+    },
+    {
+        "name": "avenue",
+        "trans": ""
+    },
+    {
+        "name": "lane",
+        "trans": ""
+    },
+    {
+        "name": "drive",
+        "trans": ""
+    },
+    {
+        "name": "court",
+        "trans": ""
+    },
+    {
+        "name": "place",
+        "trans": ""
+    },
+    {
+        "name": "terrace",
+        "trans": ""
+    },
+    {
+        "name": "row",
+        "trans": ""
+    },
+    {
+        "name": "way",
+        "trans": ""
+    },
+    {
+        "name": "north",
+        "trans": ""
+    },
+    {
+        "name": "south",
+        "trans": ""
+    },
+    {
+        "name": "east",
+        "trans": ""
+    },
+    {
+        "name": "west",
+        "trans": ""
+    },
+    {
+        "name": "up",
+        "trans": ""
+    },
+    {
+        "name": "down",
+        "trans": ""
+    },
+    {
+        "name": "right",
+        "trans": ""
+    },
+    {
+        "name": "left",
+        "trans": ""
+    },
+    {
+        "name": "straight",
+        "trans": ""
+    },
+    {
+        "name": "across from",
+        "trans": ""
+    },
+    {
+        "name": "between",
+        "trans": ""
+    },
+    {
+        "name": "beside",
+        "trans": ""
+    },
+    {
+        "name": "diagonal",
+        "trans": ""
+    },
+    {
+        "name": "corner",
+        "trans": ""
+    },
+    {
+        "name": "opposite",
+        "trans": ""
+    },
+    {
+        "name": "adjacent to",
+        "trans": ""
+    },
+    {
+        "name": "near",
+        "trans": ""
+    },
+    {
+        "name": "past",
+        "trans": ""
+    },
+    {
+        "name": "before",
+        "trans": ""
+    },
+    {
+        "name": "after",
+        "trans": ""
+    },
+    {
+        "name": "turn",
+        "trans": ""
+    },
+    {
+        "name": "move",
+        "trans": ""
+    },
+    {
+        "name": "continue on",
+        "trans": ""
+    },
+    {
+        "name": "walk",
+        "trans": ""
+    },
+    {
+        "name": "cross",
+        "trans": ""
+    },
+    {
+        "name": "pass",
+        "trans": ""
+    },
+    {
+        "name": "start",
+        "trans": ""
+    },
+    {
+        "name": "finish",
+        "trans": ""
+    },
+    {
+        "name": "end",
+        "trans": ""
+    },
+    {
+        "name": "stop",
+        "trans": ""
+    },
+    {
+        "name": "go straight ahead",
+        "trans": ""
+    },
+    {
+        "name": "tennis court",
+        "trans": ""
+    },
+    {
+        "name": "river",
+        "trans": ""
+    },
+    {
+        "name": "courtyard",
+        "trans": ""
+    },
+    {
+        "name": "laboratory",
+        "trans": ""
+    },
+    {
+        "name": "building",
+        "trans": ""
+    },
+    {
+        "name": "bridge",
+        "trans": ""
+    },
+    {
+        "name": "road",
+        "trans": ""
+    },
+    {
+        "name": "path",
+        "trans": ""
+    },
+    {
+        "name": "traffic lights",
+        "trans": ""
+    },
+    {
+        "name": "bench",
+        "trans": ""
+    },
+    {
+        "name": "seat",
+        "trans": ""
+    },
+    {
+        "name": "table",
+        "trans": ""
+    },
+    {
+        "name": "basketball court",
+        "trans": ""
+    },
+    {
+        "name": "running track",
+        "trans": ""
+    },
+    {
+        "name": "swimming pool",
+        "trans": ""
+    },
+    {
+        "name": "beach",
+        "trans": ""
+    },
+    {
+        "name": "forest",
+        "trans": ""
+    },
+    {
+        "name": "garden",
+        "trans": ""
+    },
+    {
+        "name": "castle",
+        "trans": ""
+    },
+    {
+        "name": "presentation",
+        "trans": ""
+    },
+    {
+        "name": "project",
+        "trans": ""
+    },
+    {
+        "name": "teamwork",
+        "trans": ""
+    },
+    {
+        "name": "pairs",
+        "trans": ""
+    },
+    {
+        "name": "organisation",
+        "trans": ""
+    },
+    {
+        "name": "outline",
+        "trans": ""
+    },
+    {
+        "name": "proofreading",
+        "trans": ""
+    },
+    {
+        "name": "experiment",
+        "trans": ""
+    },
+    {
+        "name": "reference",
+        "trans": ""
+    },
+    {
+        "name": "lecture",
+        "trans": ""
+    },
+    {
+        "name": "tutor",
+        "trans": ""
+    },
+    {
+        "name": "attendance",
+        "trans": ""
+    },
+    {
+        "name": "specialist",
+        "trans": ""
+    },
+    {
+        "name": "knowledge",
+        "trans": ""
+    },
+    {
+        "name": "faculty",
+        "trans": ""
+    },
+    {
+        "name": "bachelor",
+        "trans": ""
+    },
+    {
+        "name": "master",
+        "trans": ""
+    },
+    {
+        "name": "schedule",
+        "trans": ""
+    },
+    {
+        "name": "management",
+        "trans": ""
+    },
+    {
+        "name": "leadership",
+        "trans": ""
+    },
+    {
+        "name": "questionnaire",
+        "trans": ""
+    },
+    {
+        "name": "statistic",
+        "trans": ""
+    },
+    {
+        "name": "percentage",
+        "trans": ""
+    },
+    {
+        "name": "laboratory",
+        "trans": ""
+    },
+    {
+        "name": "lab",
+        "trans": ""
+    },
+    {
+        "name": "Mathematics",
+        "trans": ""
+    },
+    {
+        "name": "Science",
+        "trans": ""
+    },
+    {
+        "name": "English",
+        "trans": ""
+    },
+    {
+        "name": "Physical Education",
+        "trans": ""
+    },
+    {
+        "name": "Art",
+        "trans": ""
+    },
+    {
+        "name": "Music",
+        "trans": ""
+    },
+    {
+        "name": "Geography",
+        "trans": ""
+    },
+    {
+        "name": "Biology",
+        "trans": ""
+    },
+    {
+        "name": "Chemistry",
+        "trans": ""
+    },
+    {
+        "name": "History",
+        "trans": ""
+    },
+    {
+        "name": "term",
+        "trans": ""
+    },
+    {
+        "name": "semester",
+        "trans": ""
+    },
+    {
+        "name": "break",
+        "trans": ""
+    },
+    {
+        "name": "holiday",
+        "trans": ""
+    },
+    {
+        "name": "Commerce",
+        "trans": ""
+    },
+    {
+        "name": "Science",
+        "trans": ""
+    },
+    {
+        "name": "Psychology",
+        "trans": ""
+    },
+    {
+        "name": "Engineering",
+        "trans": ""
+    },
+    {
+        "name": "Marketing",
+        "trans": ""
+    },
+    {
+        "name": "Sociology",
+        "trans": ""
+    },
+    {
+        "name": "Medicine",
+        "trans": ""
+    },
+    {
+        "name": "History",
+        "trans": ""
+    },
+    {
+        "name": "Geography",
+        "trans": ""
+    },
+    {
+        "name": "Architecture",
+        "trans": ""
+    },
+    {
+        "name": "Law",
+        "trans": ""
+    },
+    {
+        "name": "Philosophy",
+        "trans": ""
+    },
+    {
+        "name": "Economics",
+        "trans": ""
+    },
+    {
+        "name": "Education",
+        "trans": ""
+    },
+    {
+        "name": "block exams",
+        "trans": ""
+    },
+    {
+        "name": "assessment",
+        "trans": ""
+    },
+    {
+        "name": "test",
+        "trans": ""
+    },
+    {
+        "name": "revision",
+        "trans": ""
+    },
+    {
+        "name": "pass",
+        "trans": ""
+    },
+    {
+        "name": "fail",
+        "trans": ""
+    },
+    {
+        "name": "repeat",
+        "trans": ""
+    },
+    {
+        "name": "supervise",
+        "trans": ""
+    },
+    {
+        "name": "supervisor",
+        "trans": ""
+    },
+    {
+        "name": "assess",
+        "trans": ""
+    },
+    {
+        "name": "exam",
+        "trans": ""
+    },
+    {
+        "name": "results",
+        "trans": ""
+    },
+    {
+        "name": "degree",
+        "trans": ""
+    },
+    {
+        "name": "certificate",
+        "trans": ""
+    },
+    {
+        "name": "vegetarian",
+        "trans": ""
+    },
+    {
+        "name": "vegan",
+        "trans": ""
+    },
+    {
+        "name": "healthy",
+        "trans": ""
+    },
+    {
+        "name": "unhealthy",
+        "trans": ""
+    },
+    {
+        "name": "leisure",
+        "trans": ""
+    },
+    {
+        "name": "disease",
+        "trans": ""
+    },
+    {
+        "name": "vitamin",
+        "trans": ""
+    },
+    {
+        "name": "protein",
+        "trans": ""
+    },
+    {
+        "name": "carbohydrates",
+        "trans": ""
+    },
+    {
+        "name": "exercise",
+        "trans": ""
+    },
+    {
+        "name": "treatment",
+        "trans": ""
+    },
+    {
+        "name": "obese",
+        "trans": ""
+    },
+    {
+        "name": "overweight",
+        "trans": ""
+    },
+    {
+        "name": "fit",
+        "trans": ""
+    },
+    {
+        "name": "doctor",
+        "trans": ""
+    },
+    {
+        "name": "check up",
+        "trans": ""
+    },
+    {
+        "name": "medicine",
+        "trans": ""
+    },
+    {
+        "name": "vitamin",
+        "trans": ""
+    },
+    {
+        "name": "pandemic",
+        "trans": ""
+    },
+    {
+        "name": "virus",
+        "trans": ""
+    },
+    {
+        "name": "cure",
+        "trans": ""
+    },
+    {
+        "name": "vaccination",
+        "trans": ""
+    },
+    {
+        "name": "mammals",
+        "trans": ""
+    },
+    {
+        "name": "reptile",
+        "trans": ""
+    },
+    {
+        "name": "primates",
+        "trans": ""
+    },
+    {
+        "name": "predators",
+        "trans": ""
+    },
+    {
+        "name": "prey",
+        "trans": ""
+    },
+    {
+        "name": "mountain",
+        "trans": ""
+    },
+    {
+        "name": "jungle",
+        "trans": ""
+    },
+    {
+        "name": "forest",
+        "trans": ""
+    },
+    {
+        "name": "island",
+        "trans": ""
+    },
+    {
+        "name": "pond",
+        "trans": ""
+    },
+    {
+        "name": "river",
+        "trans": ""
+    },
+    {
+        "name": "stream",
+        "trans": ""
+    },
+    {
+        "name": "zoo",
+        "trans": ""
+    },
+    {
+        "name": "pet",
+        "trans": ""
+    },
+    {
+        "name": "endangered",
+        "trans": ""
+    },
+    {
+        "name": "species",
+        "trans": ""
+    },
+    {
+        "name": "ocean",
+        "trans": ""
+    },
+    {
+        "name": "sea",
+        "trans": ""
+    },
+    {
+        "name": "North America",
+        "trans": ""
+    },
+    {
+        "name": "South America",
+        "trans": ""
+    },
+    {
+        "name": "Asia",
+        "trans": ""
+    },
+    {
+        "name": "Africa",
+        "trans": ""
+    },
+    {
+        "name": "Europe",
+        "trans": ""
+    },
+    {
+        "name": "Antarctica",
+        "trans": ""
+    },
+    {
+        "name": "Asutralia",
+        "trans": ""
+    },
+    {
+        "name": "Oceania",
+        "trans": ""
+    },
+    {
+        "name": "England",
+        "trans": ""
+    },
+    {
+        "name": "Canada",
+        "trans": ""
+    },
+    {
+        "name": "China",
+        "trans": ""
+    },
+    {
+        "name": "United Kindom",
+        "trans": ""
+    },
+    {
+        "name": "Germmany",
+        "trans": ""
+    },
+    {
+        "name": "Mexico",
+        "trans": ""
+    },
+    {
+        "name": "Switzerland",
+        "trans": ""
+    },
+    {
+        "name": "global warming",
+        "trans": ""
+    },
+    {
+        "name": "disaster",
+        "trans": ""
+    },
+    {
+        "name": "earthquake",
+        "trans": ""
+    },
+    {
+        "name": "tornato",
+        "trans": ""
+    },
+    {
+        "name": "blizzard",
+        "trans": ""
+    },
+    {
+        "name": "hurricane",
+        "trans": ""
+    },
+    {
+        "name": "pollution",
+        "trans": ""
+    },
+    {
+        "name": "temperture",
+        "trans": ""
+    },
+    {
+        "name": "drought",
+        "trans": ""
+    },
+    {
+        "name": "flood",
+        "trans": ""
+    },
+    {
+        "name": "cyclone",
+        "trans": ""
+    },
+    {
+        "name": "volcanic eruption",
+        "trans": ""
+    },
+    {
+        "name": "deforestion",
+        "trans": ""
+    },
+    {
+        "name": "desertification",
+        "trans": ""
+    },
+    {
+        "name": "bush fires",
+        "trans": ""
+    },
+    {
+        "name": "politics",
+        "trans": ""
+    },
+    {
+        "name": "politician",
+        "trans": ""
+    },
+    {
+        "name": "senator",
+        "trans": ""
+    },
+    {
+        "name": "mayor",
+        "trans": ""
+    },
+    {
+        "name": "laws",
+        "trans": ""
+    },
+    {
+        "name": "regulations",
+        "trans": ""
+    },
+    {
+        "name": "senate",
+        "trans": ""
+    },
+    {
+        "name": "president",
+        "trans": ""
+    },
+    {
+        "name": "society",
+        "trans": ""
+    },
+    {
+        "name": "individual",
+        "trans": ""
+    },
+    {
+        "name": "council",
+        "trans": ""
+    },
+    {
+        "name": "rules",
+        "trans": ""
+    },
+    {
+        "name": "nuclear",
+        "trans": ""
+    },
+    {
+        "name": "oil",
+        "trans": ""
+    },
+    {
+        "name": "coal",
+        "trans": ""
+    },
+    {
+        "name": "hydro electrical power",
+        "trans": ""
+    },
+    {
+        "name": "natural gas",
+        "trans": ""
+    },
+    {
+        "name": "solar power",
+        "trans": ""
+    },
+    {
+        "name": "source",
+        "trans": ""
+    },
+    {
+        "name": "generate",
+        "trans": ""
+    },
+    {
+        "name": "electricity",
+        "trans": ""
+    },
+    {
+        "name": "dam",
+        "trans": ""
+    },
+    {
+        "name": "windmill",
+        "trans": ""
+    },
+    {
+        "name": "wind turbine",
+        "trans": ""
+    },
+    {
+        "name": "renewable",
+        "trans": ""
+    },
+    {
+        "name": "non-renewable",
+        "trans": ""
+    },
+    {
+        "name": "appointment",
+        "trans": ""
+    },
+    {
+        "name": "cooperation",
+        "trans": ""
+    },
+    {
+        "name": "employment",
+        "trans": ""
+    },
+    {
+        "name": "government",
+        "trans": ""
+    },
+    {
+        "name": "exhibition",
+        "trans": ""
+    },
+    {
+        "name": "occupation",
+        "trans": ""
+    },
+    {
+        "name": "aluminum",
+        "trans": ""
+    },
+    {
+        "name": "century",
+        "trans": ""
+    },
+    {
+        "name": "decade",
+        "trans": ""
+    },
+    {
+        "name": "millennium",
+        "trans": ""
+    },
+    {
+        "name": "millennia",
+        "trans": ""
+    },
+    {
+        "name": "individual",
+        "trans": ""
+    },
+    {
+        "name": "creativity",
+        "trans": ""
+    },
+    {
+        "name": "guarantee",
+        "trans": ""
+    },
+    {
+        "name": "satellite",
+        "trans": ""
+    },
+    {
+        "name": "opportunity",
+        "trans": ""
+    },
+    {
+        "name": "license",
+        "trans": ""
+    },
+    {
+        "name": "frequently",
+        "trans": ""
+    },
+    {
+        "name": "calendar",
+        "trans": ""
+    },
+    {
+        "name": "different",
+        "trans": ""
+    }
+]

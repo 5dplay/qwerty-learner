@@ -1,0 +1,490 @@
+[
+    {
+        "name": "compare",
+        "trans": "basic word"
+    },
+    {
+        "name": "illustrate",
+        "trans": "basic word"
+    },
+    {
+        "name": "show",
+        "trans": "basic word"
+    },
+    {
+        "name": "give information about",
+        "trans": "if 'compare' is used in the task, then use this one"
+    },
+    {
+        "name": "show data about",
+        "trans": "if 'compare' is used in the task, then use this one"
+    },
+    {
+        "name": "in terms of",
+        "trans": "used to describe which particular area of a subject you are discussing"
+    },
+    {
+        "name": "with regard to",
+        "trans": "referring; concerning"
+    },
+    {
+        "name": "amount",
+        "trans": "for sale/production/number/units"
+    },
+    {
+        "name": "electricity production/the amount of electricity produced",
+        "trans": ""
+    },
+    {
+        "name": "global sales of sth/the number of sth sold worldwide",
+        "trans": ""
+    },
+    {
+        "name": "global sales (in dollar)/international turnover in dollar",
+        "trans": ""
+    },
+    {
+        "name": "shows statistics about A for B/compares A in terms of B",
+        "trans": ""
+    },
+    {
+        "name": "results of a questionnaire/responses to a survey about",
+        "trans": ""
+    },
+    {
+        "name": "the amount of time/the time spent by who on what activity",
+        "trans": ""
+    },
+    {
+        "name": "show how A is produced/illustrate the process of A production",
+        "trans": ""
+    },
+    {
+        "name": "shows how B is recycled/shows steps in the process of recycling used B",
+        "trans": ""
+    },
+    {
+        "name": "show how A is used to produce B/illustrate the process of B production using A",
+        "trans": ""
+    },
+    {
+        "name": "show how A does sth to produce B(verb)/illustrate the process used by A to B(noun)",
+        "trans": ""
+    },
+    {
+        "name": "show the life cycle of A/show the growth process of A",
+        "trans": ""
+    },
+    {
+        "name": "show the life cycle of A/show the various stages in the life of A",
+        "trans": ""
+    },
+    {
+        "name": "some principles of house design for cool and warm climates/how house designs differ according to climate",
+        "trans": ""
+    },
+    {
+        "name": "comepare the layout of A as it was in Y1/the current layout of A with a plan to redesign the B/a proposed site design",
+        "trans": "map/site(before/now and plan)"
+    },
+    {
+        "name": "show some proposed changes to A",
+        "trans": "map/site(before/now and plan)"
+    },
+    {
+        "name": "some changes to A which has been developed for B",
+        "trans": "map/site(before and now)"
+    },
+    {
+        "name": "show two potential localtions (S1 and S2) for A in which year",
+        "trans": "both possible"
+    },
+    {
+        "name": "the process consists of four distinct stages",
+        "trans": ""
+    },
+    {
+        "name": "it requires five steps to do something",
+        "trans": ""
+    },
+    {
+        "name": "there are five main stages in the development of animal",
+        "trans": ""
+    },
+    {
+        "name": "age structure/sth with range/A distribution by B",
+        "trans": ""
+    },
+    {
+        "name": "proportion of people living in poverty/poverty rates",
+        "trans": ""
+    },
+    {
+        "name": "annual/yearly",
+        "trans": ""
+    },
+    {
+        "name": "expenditure/spending/cost/expenses",
+        "trans": ""
+    },
+    {
+        "name": "phone/mobile",
+        "trans": ""
+    },
+    {
+        "name": "residential phone service/landline phone services",
+        "trans": ""
+    },
+    {
+        "name": "water consumption/water use",
+        "trans": ""
+    },
+    {
+        "name": "transportation type/different types of public transport",
+        "trans": ""
+    },
+    {
+        "name": "sales of A/the amount of money spent on A",
+        "trans": ""
+    },
+    {
+        "name": "there are delays this morning for people travelling to work/people who are travelling to work",
+        "trans": ""
+    },
+    {
+        "name": "we noticed a pile of stones left in the road/stones which had been left there",
+        "trans": ""
+    },
+    {
+        "name": "in 1991",
+        "trans": "no change"
+    },
+    {
+        "name": "in 1991 and 1998/over a period of two years/from 1991 to 1998/between 1991 and 1998",
+        "trans": ""
+    },
+    {
+        "name": "in 1991,1995,1998/over a period of 7 years/in three different years over a 7-year period",
+        "trans": ""
+    },
+    {
+        "name": "monthly, from January to December/over the course of a calendar year",
+        "trans": ""
+    },
+    {
+        "name": "people aged under 20",
+        "trans": "used as noun"
+    },
+    {
+        "name": "between 9 and 10 days later",
+        "trans": "9-10 days"
+    },
+    {
+        "name": "after a total of 9 to 10 days",
+        "trans": "9-10 days"
+    },
+    {
+        "name": "the 30-39 age group",
+        "trans": "people aged 30 to 39"
+    },
+    {
+        "name": "people aged 30 to 39",
+        "trans": ""
+    },
+    {
+        "name": "people were aged 20 or under/over",
+        "trans": ""
+    },
+    {
+        "name": "it is clear that",
+        "trans": "for line/bar/table/pie chart to draw a conclusion"
+    },
+    {
+        "name": "we can see that",
+        "trans": "for process/comparison diagram"
+    },
+    {
+        "name": "the figures for all types of B",
+        "trans": ""
+    },
+    {
+        "name": "the figure for this category",
+        "trans": ""
+    },
+    {
+        "name": "the number of/the amount of A",
+        "trans": "double/remain/..."
+    },
+    {
+        "name": "People in A do sth. On the other hand, the figure for B",
+        "trans": ""
+    },
+    {
+        "name": "A made up a higher proportion of Z than B",
+        "trans": "used in summary"
+    },
+    {
+        "name": "A accounted for the largest proportion of B",
+        "trans": "used in summary"
+    },
+    {
+        "name": "a majority of B",
+        "trans": "used in both summary and body"
+    },
+    {
+        "name": "A accounted for 65% of B",
+        "trans": "used in body"
+    },
+    {
+        "name": "35% of A",
+        "trans": "used in body"
+    },
+    {
+        "name": "half of this/that amount",
+        "trans": ""
+    },
+    {
+        "name": "In 2001. Over the following five years",
+        "trans": ""
+    },
+    {
+        "name": "100% of A verb, compared to 80% of B and only 40% of C",
+        "trans": ""
+    },
+    {
+        "name": "A is the most extensive, with 126 kilometres of route, compared to 11 kilometre and 28 kilometre for B and C",
+        "trans": ""
+    },
+    {
+        "name": "rise/increase/climb",
+        "trans": "up"
+    },
+    {
+        "name": "drop/decline/fall",
+        "trans": "down"
+    },
+    {
+        "name": "remain/stand/at",
+        "trans": "still"
+    },
+    {
+        "name": "peak",
+        "trans": ""
+    },
+    {
+        "name": "rise/drop to a specific number",
+        "trans": ""
+    },
+    {
+        "name": "rise/drop by a delta of two number",
+        "trans": ""
+    },
+    {
+        "name": "slightly/steadily/significantly/dramatically/rapidly",
+        "trans": "rose/dropped"
+    },
+    {
+        "name": "slight/significant/dramatic/rapid",
+        "trans": "rise/drop"
+    },
+    {
+        "name": "see an increase",
+        "trans": ""
+    },
+    {
+        "name": "see a rise",
+        "trans": ""
+    },
+    {
+        "name": "there was a significant rise in",
+        "trans": ""
+    },
+    {
+        "name": "experience a rise",
+        "trans": ""
+    },
+    {
+        "name": "there was a fall",
+        "trans": ""
+    },
+    {
+        "name": "remained as they were in 1991",
+        "trans": ""
+    },
+    {
+        "name": "remain steadily/high/below/above",
+        "trans": ""
+    },
+    {
+        "name": "reach a peak at",
+        "trans": ""
+    },
+    {
+        "name": "remain above, peaking at",
+        "trans": ""
+    },
+    {
+        "name": "peak at",
+        "trans": ""
+    },
+    {
+        "name": "remain stable in 1980, but fall to 11 units by 1991",
+        "trans": ""
+    },
+    {
+        "name": "a increase/decrease is predicted/expected ",
+        "trans": ""
+    },
+    {
+        "name": "by 2040, it is thought that",
+        "trans": ""
+    },
+    {
+        "name": "will rise/drop",
+        "trans": ""
+    },
+    {
+        "name": "at the first stage in. Next. Then",
+        "trans": ""
+    },
+    {
+        "name": "begin with. and then. Finally",
+        "trans": ""
+    },
+    {
+        "name": "the life cycle of A begins when the female adult lays an egg",
+        "trans": ""
+    },
+    {
+        "name": "egg hatches and the immature insect appears",
+        "trans": ""
+    },
+    {
+        "name": "gather/collect",
+        "trans": ""
+    },
+    {
+        "name": "deliever/send/transfer",
+        "trans": ""
+    },
+    {
+        "name": "convert into/transform into",
+        "trans": ""
+    },
+    {
+        "name": "mix",
+        "trans": ""
+    },
+    {
+        "name": "employ/use/apply",
+        "trans": ""
+    },
+    {
+        "name": "remove/throw away",
+        "trans": ""
+    },
+    {
+        "name": "produce/generate/create/make",
+        "trans": ""
+    },
+    {
+        "name": "heat/dry/cool/freeze",
+        "trans": ""
+    },
+    {
+        "name": "condense/compress",
+        "trans": ""
+    },
+    {
+        "name": "process",
+        "trans": ""
+    },
+    {
+        "name": "can/pack/package",
+        "trans": ""
+    },
+    {
+        "name": "lay eggs/produce eggs",
+        "trans": ""
+    },
+    {
+        "name": "hatch eggs",
+        "trans": ""
+    },
+    {
+        "name": "break the shell",
+        "trans": ""
+    },
+    {
+        "name": "come out of eggs",
+        "trans": ""
+    },
+    {
+        "name": "hatch from eggs",
+        "trans": ""
+    },
+    {
+        "name": "grow older",
+        "trans": ""
+    },
+    {
+        "name": "reach maturity",
+        "trans": ""
+    },
+    {
+        "name": "grow to maturity",
+        "trans": ""
+    },
+    {
+        "name": "at the first stage/step/phase",
+        "trans": ""
+    },
+    {
+        "name": "at the larval stage",
+        "trans": ""
+    },
+    {
+        "name": "the building consist of",
+        "trans": ""
+    },
+    {
+        "name": "the building houses a room",
+        "trans": ""
+    },
+    {
+        "name": "there is a gym at the rear and a reception area to the front",
+        "trans": ""
+    },
+    {
+        "name": "double its current size",
+        "trans": ""
+    },
+    {
+        "name": "will be lengthened",
+        "trans": ""
+    },
+    {
+        "name": "following the renovations",
+        "trans": "future plan"
+    },
+    {
+        "name": "the most noticeable change from the existing to the proposed plan is that there will be. This will be achieved by",
+        "trans": "future plan"
+    },
+    {
+        "name": "To replace A,B will be",
+        "trans": "future plan"
+    },
+    {
+        "name": "",
+        "trans": ""
+    },
+    {
+        "name": "",
+        "trans": ""
+    },
+    {
+        "name": "",
+        "trans": ""
+    }
+]
